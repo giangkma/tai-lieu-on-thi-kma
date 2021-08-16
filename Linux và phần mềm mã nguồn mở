@@ -1,0 +1,24 @@
+link : https://hdtlu.github.io/2015-2016/linux.html
+
+Linux và phần mềm mã nguồn mở
+Mục tiêu
+Trang bị cho sinh viên những hiểu biết cũng như kiến thức về phần mềm mã nguồn mở và quản trị hệ thống linux:
+- Cung cấp các kiến thức cơ bản về giấy phép mã nguồn mở và cộng đồng FOSS
+- Hiểu về cách thức làm việc của hệ điều hành Linux
+- Cách sử dụng giao diện dòng lệnh cơ bản
+- Làm việc với hệ thống file, tiến trình và dịch vụ
+- Tùy biến môi trường hệ thống
+- Làm việc với x-windows
+- Cấu hình các dịch vụ internet cơ bản
+
+Bài giảng
+Bài 1: Giới thiệu
+Bài 2: Tổng quan về Linux
+Bài 3: Làm quen với hệ thống linux
+Bài 4: Người dùng, phân quyền và quản lý file trên linux
+Bài 6: Hệ thống file, tập tin và dẫn hướng vào/ra dữ liệu
+Bài 8: Tiến trình và lập lịch
+Bài 9: Quản lý gói và x-windows
+Bài 10: Dịch vụ và quản trị các dịch vụ cơ bản trên linux
+Bài 11: Cài đặt các dịch vụ cơ bản của máy chủ Internet trên linux
+Bài 12: Quản trị từ xa với control panel
