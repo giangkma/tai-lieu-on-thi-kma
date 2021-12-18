@@ -1,4 +1,4 @@
-Thẻ <Frame src=” duong dan ”>~Tất cả dạng trêna
+Thẻ <Frame src=” duong dan ”>~Tất cả dạng trênaa
 Sự kiện focus() có ý nghĩa gì~Mô tả việc con trỏ tới trường text (cách thức)
 Trong SQL, làm thế nào để chọn tất cả các bản ghi từ bảng "Persons" trong đó giá trị của cột "FirstName" là "Peter" và "LastName" là "Jackson"~SELECT * FROM Persons WHERE FirstName='Peter' AND LastName='Jackson'
 Để tạo một khoảng trắng mới ta dùng ký hiệu nào sau đây~\b
